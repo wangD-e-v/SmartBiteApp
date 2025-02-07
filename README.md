@@ -8,8 +8,7 @@
 
 /**Replace it with this**/
 
-<br>
-<br>
+
 
 <hr>
 const { getDefaultConfig } = require('expo/metro-config');
@@ -18,4 +17,4 @@ const defaultConfig =  getDefaultConfig(__dirname);
 defaultConfig.resolver.assetExts.push('cjs');
 module.exports = defaultConfig;
 
-npx expo start
+# npx expo start
