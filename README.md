@@ -1,4 +1,4 @@
-#git clone https://github.com/wangD-e-v/SmartBiteApp
+# git clone https://github.com/wangD-e-v/SmartBiteApp
 cd SmartBiteApp
 npm install -f
 npx expo customize metro.config.js
