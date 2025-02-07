@@ -6,9 +6,7 @@
 <br>
 <br>
 
-/**Replace it with this**/
-
-
+=== Replace it with this ===
 
 <hr>
 const { getDefaultConfig } = require('expo/metro-config');
